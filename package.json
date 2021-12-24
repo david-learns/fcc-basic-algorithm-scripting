@@ -1,0 +1,14 @@
+{
+  "name": "basic-algorithm-scripting",
+  "version": "1.0.0",
+  "description": "freeCodeCamp basic algorithm scripting problems with unit tests",
+  "main": "basic-scripting.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "*"
+  }
+}
